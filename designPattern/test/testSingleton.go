@@ -1,6 +1,6 @@
 package main
 
-import "../go-tests/designPattern/singleton"
+import "../singleton"
 
 func main() {
 	go func() {
